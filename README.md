@@ -1,29 +1,30 @@
 # IntelRDFPMathLib20U2
 
-     ==================================================================
-     ======= Intel(R) Decimal Floating-Point Math Library v2.2 ========
-     ==================================================================
+ ==================================================================
+ ======= Intel(R) Decimal Floating-Point Math Library v2.2 ========
+ ==================================================================
 
-                                                         June 8, 2018
+                                                     June 8, 2018
 
 
-     ******************************************************************
-     *** To report issues, please send email to decimalfp@intel.com ***
-     ******************************************************************
+ ******************************************************************
+ *** To report issues, please send email to decimalfp@intel.com ***
+ ******************************************************************
 
-     Release History:
-     ================
-        Jul 2009 - Version 1.0 - implemented all the mandatory functions 
-                   from the IEEE Standard 754-2008
-        Jun 2011 - Version 2.0 - implemented also the functions 
-                   recommended in the ISO/IEC Technical Report 24732, 
-                   'Extension for the programming language C to support 
-                   decimal floating-point arithmetic'
-        Aug 2011 - Version 2.0 Update 1 - fixed a small issue in fma128
-        Jun 2018 - Version 2.0 Update 2 - fixed issues in powd64, 
-                   acos64, and acos128. Added the llround, llquantexp, 
-                   and quantum functions, as well as corresponding new tests.
-		   This version has been tested in Linux, Windows, OSX, and Solaris.
+ Release History:
+ ================
+Jul 2009 - Version 1.0 - implemented all the mandatory functions 
+           from the IEEE Standard 754-2008
+Jun 2011 - Version 2.0 - implemented also the functions 
+           recommended in the ISO/IEC Technical Report 24732, 
+           'Extension for the programming language C to support 
+           decimal floating-point arithmetic'
+Aug 2011 - Version 2.0 Update 1 - fixed a small issue in fma128
+Jun 2018 - Version 2.0 Update 2 - fixed issues in powd64, 
+           acos64, and acos128. Added the llround, llquantexp, 
+           and quantum functions, as well as corresponding new tests.
+   This version has been tested in Linux, Windows, OSX, and Solaris.
+
 
   1. INTRODUCTION
   ===============
