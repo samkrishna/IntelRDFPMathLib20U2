@@ -1,0 +1,8 @@
+# Ignore object and product files
+
+*~
+.#*
+*.la
+*.lo
+*.o
+*.a
