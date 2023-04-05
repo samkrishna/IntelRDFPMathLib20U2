@@ -10,4 +10,4 @@ The changes are as follows:
 
 ## OTHER DETAILS:
 
-Please see the `README` (no extension) for additional details.
+Please see the [README](https://github.com/samkrishna/IntelRDFPMathLib20U2/blob/main/README) for additional details.
