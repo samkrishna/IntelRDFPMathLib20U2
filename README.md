@@ -6,7 +6,7 @@ The changes are as follows:
 
 - A macOS-specific build script (**RUNOSX**) in the `LIBRARY` directory
 - Another macOS-specific Makefile in `LIBRARY` (`macos-install.makefile`)
-- A bugfix that was causing a SEGFAULT in an InteractiveBroker-derived codebase
+- A bugfix that was causing a SEGFAULT in another codebase
 
 ## OTHER DETAILS:
 
