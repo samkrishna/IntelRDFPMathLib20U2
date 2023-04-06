@@ -13,7 +13,7 @@ This repo is **specifically** for macOS (tested on arm64, likely will be just fi
 $ sudo make install -f macos-install.makefile
 ```
 
-And the correct version of the `libbid` library to be used for an upgraded version of the [twsapi](https://github.com/samkrishna/twsapi/tree/next-2023.1) will be installed, along with headers.
+And the correct version of the `libbid` library to be used for an upgraded version of the [twsapi](https://github.com/samkrishna/twsapi/tree/next-2023.1) library will be installed, along with headers.
 
 ## OTHER DETAILS:
 
