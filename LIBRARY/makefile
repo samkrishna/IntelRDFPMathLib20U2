@@ -105,7 +105,7 @@ RES_DIR      := $(RES_DIR)
 # =============================================================================
 
 _CFLAGS_INC    := -I$(SRC_DIR)
-_CFLAGS_CONFIG := -g
+_CFLAGS_CONFIG :=
 _CFLAGS_OS     := $(call HostOsTypeSelect, -DLINUX, -DWINDOWS)
 _CFLAGS_ARCH   := $(call HostArchTypeSelect,-Dia32,-DITANIUM -Dia64, -Defi2)
 _CFLAGS_CC     := -fPIC
